@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.0",
+  "description": "Proycto 1 de electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmenchon/Electron-Proyecto-1.git"
+  },
+  "keywords": [
+    "electron",
+    "js",
+    "html",
+    "escritorio",
+    "multiplataforma",
+    "node"
+  ],
+  "author": "Mariano Menchon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmenchon/Electron-Proyecto-1/issues"
+  },
+  "homepage": "https://github.com/mmenchon/Electron-Proyecto-1#readme"
+}
